@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hotel Housekeeping",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Housekeeping",
+  "start_url": "./",
+  "theme_color": "#0d6b4b",
+  "description": "Hotel Room and Bathroom Cleaning Checklist",
+  "lang": "en"
+}
